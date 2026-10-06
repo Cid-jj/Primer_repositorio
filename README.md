@@ -47,4 +47,4 @@ Dos signos pesos para centrar:
 $$
 (a+b)^2=a^2+2ab+b^2
 $$
-![Trump](image.png)
+![Foto1](image.png)
